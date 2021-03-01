@@ -1,7 +1,7 @@
 # ANDREI SAVIANOK (29 y.o.)
 
 ---
-### Contacts:
+### Contacts
 
 - **_Phone:_** _+375447585686_
 - **_Em@il:_** *dr.savaug@gmail.com*
@@ -30,10 +30,10 @@ I’m Frontend Developer. Now I am a _junior_ but when I grow up I will be _seni
 
 ### Code example
 ```javascript
-function test() {
-    return !!"false" === !!"true" ? parseInt(null, 24)===23 : "str" instanceof String;
+const test = function () {
+    return Math.min() > Math.max() ? parseInt(null, 24) === 23 : "str" instanceof String;
 }
-console.log('test() =', test());
+console.error(test(), 'WTF?');
 ```
 
 ----
@@ -41,6 +41,8 @@ console.log('test() =', test());
 ### Education
 
 - IT-Academy: _Course: Web applicaJon development with JavaScript Description: [https://is.gd/j8DG1P](https://is.gd/j8DG1P)_
+
+---
 
 ### English Proficiency
 
