@@ -16,9 +16,6 @@ I’m Frontend Developer. Now I am a _junior_ but when I grow up I will be _seni
 
 ---
 
-
-
-
 ### Skills
 
 - JS ES6 ( DOM, SVG, Canvas, AJAX, JSON)
@@ -26,6 +23,7 @@ I’m Frontend Developer. Now I am a _junior_ but when I grow up I will be _seni
 - Node.js, Express.js
 - Vue.js, Vue Router
 - HTML5
+
 ---
 
 ### Code example
@@ -40,10 +38,10 @@ console.error(test(), 'WTF?');
 
 ### Education
 
-- IT-Academy: _Course: Web applicaJon development with JavaScript Description: [https://is.gd/j8DG1P](https://is.gd/j8DG1P)_
+- IT-Academy _Courses: Web applicaJon development with JavaScript Description: [https://is.gd/j8DG1P](https://is.gd/j8DG1P)_
 
 ---
 
 ### English Proficiency
 
-B2 (Upper-Intermediate)
+- B2 (Upper-Intermediate)
