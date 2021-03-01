@@ -1,2 +1,1 @@
-# rsschool-cv
-Markdown &amp; Git -tusk: create own CV
+https://DrSavauG.github.io/rsschool-cv/cv
