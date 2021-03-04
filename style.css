@@ -1,0 +1,142 @@
+/* .main{
+    justify-content: center;
+    
+} */
+p{
+
+    font-size:18px;
+  }
+  body 
+  {
+  font: size 18px;    
+  display: block;
+  height: 800px;
+  margin-bottom: 50px;
+  margin-left: 200px;
+  margin-right: 200px;
+  margin-top: 50px;
+  max-width: 200px;
+  width: 1000px;
+    max-width: 1000px;
+    margin: 0 auto;
+  }
+  
+  header {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    padding: 20px;
+  }
+  
+  article{
+    /* width: 700px; */
+    /* padding: 20px; */
+    display: block;
+    justify-content: center;
+    align-items: center;
+    text-align: center;
+  
+    /* padding: 10px; */
+  }
+  
+  .title {
+      text-align: center;
+  }
+  .avatar
+  {
+    width: 150px;
+    height: 150px;
+    border-radius: 15%;
+    margin-right: 20px;
+  }
+  
+  ul{
+    padding-inline-start: 0px;
+    /* justify-content: center; */
+    /* margin-left: auto;
+    margin-right: auto; */
+  }
+  li{
+    /* /*  */
+    text-align: center;
+    /* justify-content: center;
+    align-content:center;
+    align-items: center; */
+  }
+  
+  main {
+    
+    display: flex;
+    /* justify-content: space-between;  */
+     justify-content: space-evenly;
+    /* background-color: #E9E9E9; */
+  }
+  .aside{
+    display: block;
+    width: 100px;
+   
+    /* justify-content: center; */
+    /* text-align: center; */
+    /* margin-right: 25px; */
+    /* padding: 20px; */
+  }
+  section{
+  /* padding-bottom: 20px; */
+    /* padding-left: 30px;
+     */
+     
+  
+  }
+  .wrap{
+  max-width: 1000px;
+  margin: 0 auto;
+  padding: 20px;
+  }
+  ul{
+    list-style-type: none;
+  }
+  .icon{
+  
+    /* list-style-image: none;
+    list-style-type: none; */
+    /* border-radius: 15%; */
+    /* border: 20px; */
+    /* margin-top: 5px;
+    margin-bottom: 5px; */
+  }
+  
+  footer {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  width: 100%;
+  max-width: 1000px;
+  margin: 0 auto;
+  
+  }
+  .youtube{
+    justify-content: center;
+  }
+  
+  /*  */
+  /* 
+   */
+  
+  .javascript  { font-family:monospace;color: #006; border: 1px solid #d0d0d0; background-color: #f0f0f0;}
+  .javascript a:link {color: #000060;}
+  .javascript a:hover {background-color: #f0f000;}
+  .javascript .imp {font-weight: bold; color: red;}
+  .javascript .kw1 {color: #000066; font-weight: bold;}
+  .javascript .kw2 {color: #003366; font-weight: bold;}
+  .javascript .kw3 {color: #000066;}
+  .javascript .co1 {color: #006600; font-style: italic;}
+  .javascript .co2 {color: #009966; font-style: italic;}
+  .javascript .coMULTI {color: #006600; font-style: italic;}
+  .javascript .es0 {color: #000099; font-weight: bold;}
+  .javascript .br0 {color: #009900;}
+  .javascript .sy0 {color: #339933;}
+  .javascript .st0 {color: #3366CC;}
+  .javascript .nu0 {color: #CC0000;}
+  .javascript .me1 {color: #660066;}
+  .javascript span.xtra { display:block; }
+  /*  */
