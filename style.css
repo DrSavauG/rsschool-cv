@@ -1,25 +1,30 @@
-.wraper{
+.wraper {
   margin-left: auto;
-    margin-right: auto;
-  }
+  margin-right: auto;
+}
+
 p {
   font-size: 17px;
   text-align: justify;
-  padding-right: 20px;padding-left: 20px;
+  padding-right: 20px;
+  padding-left: 20px;
   padding-bottom: 10px;
 }
-.pad{
-  padding-right: 20px;padding-left: 20px;
+
+.pad {
+  padding-right: 20px;
+  padding-left: 20px;
 }
 
 .javascript {
-  padding : 20px;
+  padding: 20px;
   text-align: justify;
   font-family: monospace;
   color: #006;
   border: 1px solid #d0d0d0;
   background-color: #f0f0f0;
 }
+
 body {
   display: block;
   max-width: 800px;
@@ -62,7 +67,6 @@ li {
 
 main {
   display: flex;
-  /* justify-content: space-evenly; */
 }
 
 aside {
